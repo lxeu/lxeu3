@@ -42,13 +42,6 @@
   </tr>
 </table>
 
-### ◉ &nbsp;look closer
-
-- the eye up top is made of about 2,600 words, animated with nothing but SVG
-- i wrote gradient descent by hand before i let myself `import` a model
-- grew an ecommerce brand to 800K+ organic views with $0 in ads
-- used to teach skiing, so i'm good at explaining things to people who are scared of falling
-- i'd rather ship one thing all the way than start five
 
 ### ◉ &nbsp;tools
 
